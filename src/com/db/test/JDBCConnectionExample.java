@@ -26,7 +26,6 @@ public class JDBCConnectionExample {
 		System.out.println("일부로 충돌");
 		System.out.println("으으음...");
 		System.out.println("태그 체크");
-		//ㅁㄴㅇㄻㄴㅇㄻㄴㅇㄹㄴㅁㅇㄻㄴ
 	}
 
 }
