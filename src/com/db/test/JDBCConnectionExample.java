@@ -22,6 +22,7 @@ public class JDBCConnectionExample {
 		}
 		
 		System.out.println("테스트다");
+		System.out.println("테스트2");
 		
 	}
 
